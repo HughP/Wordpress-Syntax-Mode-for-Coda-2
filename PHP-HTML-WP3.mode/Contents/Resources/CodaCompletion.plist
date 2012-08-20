@@ -15,7 +15,7 @@
 		<array>
 			<dict>
 				<key>State</key>
-				<string>SEEMode.PHP-HTML</string>
+				<string>SEEMode.PHP-HTML-WP3</string>
 				<key>Type</key>
 				<string>PHP includes</string>
 			</dict>
@@ -24,15 +24,15 @@
 		<array>
 			<dict>
 				<key>State</key>
-				<string>SEEMode.PHP-HTML</string>
+				<string>SEEMode.PHP-HTML-WP3</string>
 				<key>Type</key>
-				<string>language.function.php.php-html</string>
+				<string>language.function.php.php-html-wp3</string>
 			</dict>
 			<dict>
 				<key>State</key>
-				<string>SEEMode.PHP-HTML</string>
+				<string>SEEMode.PHP-HTML-WP3</string>
 				<key>Type</key>
-				<string>language.variable.php.php-html</string>
+				<string>language.variable.php.php-html-wp3</string>
 			</dict>
 		</array>
 	</dict>
@@ -41169,56 +41169,6 @@
 			<string>()</string>
 			<key>SelectionRange</key>
 			<string>{7, 0}</string>
-		</dict>
-  		<dict>
-			<key>ID</key>
-			<string>show_me_the_available_functions_regex</string>
-			<key>String</key>
-			<string>show_me_the_available_functions_regex</string>
-			<key>PostString</key>
-			<string>()</string>
-			<key>SelectionRange</key>
-			<string>{38, 0}</string>
-		</dict>
-  		<dict>
-			<key>ID</key>
-			<string>show_me_the_available_functions_dict</string>
-			<key>String</key>
-			<string>show_me_the_available_functions_dict</string>
-			<key>PostString</key>
-			<string>()</string>
-			<key>SelectionRange</key>
-			<string>{37, 0}</string>
-		</dict>
-  		<dict>
-			<key>ID</key>
-			<string>ns_wp_list_pages</string>
-			<key>String</key>
-			<string>ns_wp_list_pages</string>
-			<key>PostString</key>
-			<string>()</string>
-			<key>SelectionRange</key>
-			<string>{17, 0}</string>
-		</dict>
-  		<dict>
-			<key>ID</key>
-			<string>ns_activate_features</string>
-			<key>String</key>
-			<string>ns_activate_features</string>
-			<key>PostString</key>
-			<string>()</string>
-			<key>SelectionRange</key>
-			<string>{21, 0}</string>
-		</dict>
-  		<dict>
-			<key>ID</key>
-			<string>remove_thumbnail_dimensions</string>
-			<key>String</key>
-			<string>remove_thumbnail_dimensions</string>
-			<key>PostString</key>
-			<string>()</string>
-			<key>SelectionRange</key>
-			<string>{28, 0}</string>
 		</dict>
 	</array>
 	<key>LineCompletion</key>

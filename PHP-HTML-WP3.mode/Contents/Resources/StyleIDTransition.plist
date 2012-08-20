@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/CSS/CSS Attributes</key>
+	<string>_Default.Keywords</string>
+	<key>/CSS/CSS Colors</key>
+	<string>_Default.Keywords</string>
+	<key>/CSS/CSS Digits</key>
+	<string>_Default.Numbers</string>
+	<key>/CSS/CSS Keywords</key>
+	<string>_Default.Keywords</string>
+	<key>/JavaScript/Characters</key>
+	<string>_Default.Numbers</string>
+	<key>/JavaScript/FunctionRegex</key>
+	<string>_Default.FunctionRegex</string>
+	<key>/JavaScript/Keywords</key>
+	<string>_Default.Keywords</string>
+	<key>/JavaScript/Numbers</key>
+	<string>_Default.Numbers</string>
+	<key>/PHP-HTML-WP3/Attributes in Tags</key>
+	<string>HTML.Attributes in Tags</string>
+	<key>/PHP-HTML-WP3/CDATA</key>
+	<string>HTML.PHP Delimiter</string>
+	<key>/PHP-HTML-WP3/CSSComment</key>
+	<string>Comment</string>
+	<key>/PHP-HTML-WP3/CSSRound bracket</key>
+	<string>/PHP-HTML-WP3/CSSRound bracket</string>
+	<key>/PHP-HTML-WP3/CSSSingleString</key>
+	<string>String</string>
+	<key>/PHP-HTML-WP3/CSSString</key>
+	<string>String2</string>
+	<key>/PHP-HTML-WP3/Comment</key>
+	<string>Comment</string>
+	<key>/PHP-HTML-WP3/Doctype</key>
+	<string>Comment</string>
+	<key>/PHP-HTML-WP3/Entities</key>
+	<string>HTML.Entities</string>
+	<key>/PHP-HTML-WP3/Escape</key>
+	<string>/PHP-HTML-WP3/Escape</string>
+	<key>/PHP-HTML-WP3/FunctionRegex</key>
+	<string>_Default.FunctionRegex</string>
+	<key>/PHP-HTML-WP3/Inline CSS</key>
+	<string>/PHP-HTML-WP3/Inline CSS</string>
+	<key>/PHP-HTML-WP3/Inline JavaScript</key>
+	<string>/PHP-HTML-WP3/Inline JavaScript</string>
+	<key>/PHP-HTML-WP3/Inside curly brackets</key>
+	<string>/PHP-HTML-WP3/Inside curly brackets</string>
+	<key>/PHP-HTML-WP3/JSAutodocComment</key>
+	<string>Comment</string>
+	<key>/PHP-HTML-WP3/JSComment</key>
+	<string>Comment</string>
+	<key>/PHP-HTML-WP3/JSRegEx</key>
+	<string>String</string>
+	<key>/PHP-HTML-WP3/JSSingleComment</key>
+	<string>SingleComment</string>
+	<key>/PHP-HTML-WP3/JSSingleString</key>
+	<string>String</string>
+	<key>/PHP-HTML-WP3/JSString</key>
+	<string>String</string>
+	<key>/PHP-HTML-WP3/Opening Script Tag</key>
+	<string>HTML.Tags</string>
+	<key>/PHP-HTML-WP3/Opening Style Tag</key>
+	<string>HTML.Tags</string>
+	<key>/PHP-HTML-WP3/PHP</key>
+	<string>/PHP-HTML-WP3/PHP</string>
+	<key>/PHP-HTML-WP3/PHP Comment</key>
+	<string>Comment</string>
+	<key>/PHP-HTML-WP3/PHP Delimiter</key>
+	<string>HTML.PHP Delimiter</string>
+	<key>/PHP-HTML-WP3/PHP Heredoc</key>
+	<string>String2</string>
+	<key>/PHP-HTML-WP3/PHP Keywords</key>
+	<string>_Default.Keywords</string>
+	<key>/PHP-HTML-WP3/PHP Magic Methods</key>
+	<string>_Default.Magic Methods</string>
+	<key>/PHP-HTML-WP3/PHP Numbers</key>
+	<string>_Default.Numbers</string>
+	<key>/PHP-HTML-WP3/PHP SingleComment</key>
+	<string>SingleComment</string>
+	<key>/PHP-HTML-WP3/PHP String</key>
+	<string>String</string>
+	<key>/PHP-HTML-WP3/PHP String2</key>
+	<string>String2</string>
+	<key>/PHP-HTML-WP3/PHP Variables</key>
+	<string>_Default.Variables</string>
+	<key>/PHP-HTML-WP3/PHP4 Functions</key>
+	<string>_Default.PHP4 Functions</string>
+	<key>/PHP-HTML-WP3/SGML Double Dash</key>
+	<string>Comment</string>
+	<key>/PHP-HTML-WP3/Script Tags</key>
+	<string>HTML.Tags</string>
+	<key>/PHP-HTML-WP3/Strings in Tags</key>
+	<string>HTML.Strings</string>
+	<key>/PHP-HTML-WP3/Style Tags</key>
+	<string>HTML.Tags</string>
+	<key>/PHP-HTML-WP3/Tags</key>
+	<string>HTML.Tags</string>
+	<key>/PHP-HTML-WP3/Variables</key>
+	<string>_Default.Variables</string>
+	<key>_Default</key>
+	<string>_Default</string>
+</dict>
+</plist>
